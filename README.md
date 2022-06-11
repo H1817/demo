@@ -1,4 +1,6 @@
-# news首页，我的
+# news首页
+
+<img width="274" alt="news" src="https://user-images.githubusercontent.com/99640168/173191992-3577ae7d-8540-4541-9e14-fd38cf911291.png">
 
 ## Project setup
 ```
