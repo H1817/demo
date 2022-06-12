@@ -30,7 +30,7 @@ export default {
     return {
       show: false,
       flag: true,
-      reasonlist: [
+      reasonList: [
         { id: 1, content: "不文明" },
         { id: 2, content: "三观不正" },
         { id: 3, content: "涉嫌抄袭" },
